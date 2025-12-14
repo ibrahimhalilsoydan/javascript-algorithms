@@ -159,3 +159,16 @@ console.log(twoSum([2,7,11,15])); */
 /* import { timeDiffrence } from "./easy./53_timeDiffrence.js";
 console.log(timeDiffrence("14:00","16:45"));
 console.log(timeDiffrence("15:05","13:04")); */
+
+/* import { fourLargest } from "./easy./60_largestFour.js";
+
+console.log(fourLargest([[4,5,1,3],[13,27,18,26],[32,35,37,39],[1000,1001,857,1]])); */
+
+/* import { camelCase } from "./easy./61_camelCase.js";
+console.log(camelCase("i got intern at google")); */
+
+/* import { snakeCase } from "./easy./62_snakeCase.js";
+console.log(snakeCase("BOB loves-coding")) */
+
+/* import { sumMultipliers } from "./easy./63_sumMultiplier.js";
+console.log(sumMultipliers([2,5,6,-6,16,2,3,6,5,3])) */
