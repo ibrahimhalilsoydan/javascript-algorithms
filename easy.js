@@ -185,3 +185,15 @@ console.log(elementMerger([4,5,1,2,7])); */
 
 /* import { asciiConversion } from "./easy./67_asciiConversion.js";
 console.log(asciiConversion("dog")) */
+
+/* import { gCF } from "./easy./68_gCF.js";
+console.log(gCF([45,12])) */
+
+/* import { palindromeSwapper } from "./easy./71_plindromeSwapper.js";
+console.log(palindromeSwapper("kyaak")) */
+
+/* import { starRating } from "./easy./74_starRating.js";
+console.log(starRating("2.56")); */
+
+/* import { slidingWindowMedian } from "./easy./75_slidingWindowMedian.js";
+console.log(slidingWindowMedian([1,-1,-1,3,5,6],2)); */
