@@ -172,3 +172,16 @@ console.log(snakeCase("BOB loves-coding")) */
 
 /* import { sumMultipliers } from "./easy./63_sumMultiplier.js";
 console.log(sumMultipliers([2,5,6,-6,16,2,3,6,5,3])) */
+
+/* import { stringMerge } from "./easy./64_stringMerge.js";
+console.log(stringMerge("abc1*kyoo")); */
+
+/* import { oneDecrement } from "./easy./65_oneDecremend.js";
+
+console.log(oneDecrement(5655984)) */
+
+/* import { elementMerger } from "./easy./66_elementMergers.js";
+console.log(elementMerger([4,5,1,2,7])); */
+
+/* import { asciiConversion } from "./easy./67_asciiConversion.js";
+console.log(asciiConversion("dog")) */
