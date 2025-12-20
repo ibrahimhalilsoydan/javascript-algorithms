@@ -197,3 +197,18 @@ console.log(starRating("2.56")); */
 
 /* import { slidingWindowMedian } from "./easy./75_slidingWindowMedian.js";
 console.log(slidingWindowMedian([1,-1,-1,3,5,6],2)); */
+
+/* import { groupTotals } from "./easy./76_groupTotals.js";
+console.log(groupTotals(["B:-1","A:1","B:3","A:5"]));
+ */
+
+/* import { simpleEvens } from "./easy./77_simpleEvens.js";
+console.log(simpleEvens(4602225)) */
+
+/* import { fizzBuzz } from "./easy./78_fizzBuzz.js";
+console.log(fizzBuzz(1,100)); */
+
+/* import { distinctCharacters } from "./easy./79_distinctCharacters.js";
+console.log(distinctCharacters("abc123kkmmmm?"));
+ */
+
