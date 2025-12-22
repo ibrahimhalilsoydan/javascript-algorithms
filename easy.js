@@ -211,4 +211,16 @@ console.log(fizzBuzz(1,100)); */
 /* import { distinctCharacters } from "./easy./79_distinctCharacters.js";
 console.log(distinctCharacters("abc123kkmmmm?"));
  */
+/* 
+import { closetEnemy } from "./easy./57_closetEnemy.js";
+console.log(closetEnemy([0,0,1,0,0,2,0,2]));
+ */
 
+/* import { triangleRow } from "./easy./80_triangleRow.js";
+console.log(triangleRow(4)) */
+
+/* import { rectangleArea } from "./easy./81_rectangleArea.js";
+console.log(rectangleArea(["(0 0","(3 0)","(0 2)","(3 2)"])); */
+
+import { countConsonant } from "./easy./83_consonantCount.js";
+console.log(countConsonant("telephone"));
