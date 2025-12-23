@@ -221,6 +221,10 @@ console.log(triangleRow(4)) */
 
 /* import { rectangleArea } from "./easy./81_rectangleArea.js";
 console.log(rectangleArea(["(0 0","(3 0)","(0 2)","(3 2)"])); */
-
+/* 
 import { countConsonant } from "./easy./83_consonantCount.js";
 console.log(countConsonant("telephone"));
+ */
+
+/* import { arrayMatching } from "./easy./40_arrayMatching.js";
+console.log(arrayMatching(["[1,2,5,6]","[5,2,8,11,30]"])) */
