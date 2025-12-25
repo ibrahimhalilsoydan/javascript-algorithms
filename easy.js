@@ -228,3 +228,6 @@ console.log(countConsonant("telephone"));
 
 /* import { arrayMatching } from "./easy./40_arrayMatching.js";
 console.log(arrayMatching(["[1,2,5,6]","[5,2,8,11,30]"])) */
+
+/* import { largestPair } from "./easy./42_largestPair.js";
+console.log(largestPair(4759472)); */
