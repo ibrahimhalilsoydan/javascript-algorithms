@@ -231,3 +231,6 @@ console.log(arrayMatching(["[1,2,5,6]","[5,2,8,11,30]"])) */
 
 /* import { largestPair } from "./easy./42_largestPair.js";
 console.log(largestPair(4759472)); */
+
+import { twoSum } from "./easy./44_twoSum.js";
+console.log(twoSum([8,11,15,1],9))
