@@ -235,5 +235,8 @@ console.log(largestPair(4759472)); */
 /* import { twoSum } from "./easy./44_twoSum.js";
 console.log(twoSum([8,11,15,1],9)) */
 
-import { powerSet } from "./easy./46_powerSetCount.js";
-console.log(powerSet([1,2,3]))
+/* import { powerSet } from "./easy./46_powerSetCount.js";
+console.log(powerSet([1,2,3])) */
+
+/* import { pCreator } from "./easy./48_pCreator.js";
+console.log(pCreator("abjchba")); */
