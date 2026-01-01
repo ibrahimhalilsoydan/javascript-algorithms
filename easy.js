@@ -240,3 +240,9 @@ console.log(powerSet([1,2,3])) */
 
 /* import { pCreator } from "./easy./48_pCreator.js";
 console.log(pCreator("abjchba")); */
+
+/* import { twoSum2 } from "./easy./51_twoSum2.js";
+console.log(twoSum2([1,3,4,5,7,10,11],4)) */
+
+import { threeSum } from "./easy./52_threeSum.js";
+console.log(threeSum([8,2,1,4,10,5,-1,-1],8))
