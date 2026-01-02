@@ -244,5 +244,10 @@ console.log(pCreator("abjchba")); */
 /* import { twoSum2 } from "./easy./51_twoSum2.js";
 console.log(twoSum2([1,3,4,5,7,10,11],4)) */
 
-import { threeSum } from "./easy./52_threeSum.js";
-console.log(threeSum([8,2,1,4,10,5,-1,-1],8))
+/* import { threeSum } from "./easy./52_threeSum.js";
+console.log(threeSum([8,2,1,4,10,5,-1,-1],8)) */
+
+/* import { scaleBalancing } from "./easy./55_scaleBalancing.js";
+console.log(scaleBalancing(["[5,9]","[1,2,6,7]"]));
+console.log(scaleBalancing(["[13,4]","[1,2,3,6,14]"]));
+console.log(scaleBalancing(["[3,4]","[1,2,7,7]"])); */
