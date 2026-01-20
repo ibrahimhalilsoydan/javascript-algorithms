@@ -251,3 +251,6 @@ console.log(threeSum([8,2,1,4,10,5,-1,-1],8)) */
 console.log(scaleBalancing(["[5,9]","[1,2,6,7]"]));
 console.log(scaleBalancing(["[13,4]","[1,2,3,6,14]"]));
 console.log(scaleBalancing(["[3,4]","[1,2,7,7]"])); */
+
+/* import { pascalTriangle } from "./easy./55_pascalTriangle.js";
+console.log(pascalTriangle(7)) */
